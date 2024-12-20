@@ -71,3 +71,14 @@ https://cdnjs.com/libraries/sweetalert
 -預設會員：
 帳號: user@gmail.com
 密碼: 12345678
+
+## 
+
+> Blog文章頁面
+![Image text](https://github.com/PrimiSenca/HelloBlog/blob/master/public/postimage/blog1.png)
+
+> Blog管理者的頁面
+![Image text](https://github.com/PrimiSenca/HelloBlog/blob/master/public/postimage/blog2.png)
+
+> Blog的評論頁面
+![Image text](https://github.com/PrimiSenca/HelloBlog/blob/master/public/postimage/blog3.png)
