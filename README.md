@@ -33,7 +33,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## 學習資料來源
 
 - **Laravel 5.7 實務專題範例教學**: 主流 PHP 開發框架入門  
-  觀看網址: [WebTechKnowledge YouTube Channel](https://www.youtube.com/@WebTechKnowledge)
+- 觀看網址: [WebTechKnowledge YouTube Channel](https://www.youtube.com/@WebTechKnowledge)
 
 ## 安裝步驟
 
